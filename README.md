@@ -1,4 +1,4 @@
-# README File Generator
+# Color Flipper Project
 
 ![License:MIT](https://img.shields.io/badge/MIT-License-yellowgreen)
 
@@ -19,21 +19,20 @@
 
 ## Description
 
-Generates markdown files for github repositories to explain the project brief and deliverables.
+Produces a random color code or hex for the user to utilise in their project. A simple webapp that makes the hard decision of choosing color palletes more simpler and efficient.
 
-![Walk-through](/Walkthrough.gif)
 
 ---
 
 ## Installation
 
-Install node.js and inquirer.js
+HTML, CSS & JavaScript was used in producing this project.
 
 ---
 
 ## Usage
 
-N/A
+![color-flipper](/color-flipper.png)
 
 ---
 
@@ -63,4 +62,4 @@ This repository is licensed under [MIT License](LICENSE)
 
 ## Credits
 
-N/A
+Following credits are given to John Smilga for initiating a tutorial on the color flipper project. To visit the tutorial, click on [YouTube](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=421s&ab_channel=freeCodeCamp.org).
